@@ -1,0 +1,10 @@
+spring:
+  mail:
+    username: test
+    password: test
+    host: localhost
+    port: 3025
+    properties:
+      mail:
+        smtp:
+          auth: true
